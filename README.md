@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Prit Italiya! 👋
 
-<!--
-**prititaliya/prititaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Engineer with a focus on data analysis, web development, and algorithms. I'm proficient in Python, Java, JavaScript, and databases.
 
-Here are some ideas to get you started:
+## 🔭 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my notable projects:
+
+- **Spam Email Detection System**: Implemented a classifier using Multinomial Naive Bayes and a machine learning pipeline to determine whether an email is spam based on its content.
+- **Movie Recommendations System**: Developed a recommendation system using Python to suggest movies based on user preferences.
+
+## 🌱 Skills
+
+- **Programming Languages**: Python, Java, JavaScript [oai_citation_attribution:1‡Rahul Jain](https://rahuldkjain.github.io/gh-profile-readme-generator/?utm_source=chatgpt.com)
+- **Web Development**: HTML, CSS, React, Node.js
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Databases**: MySQL, MongoDB
+
+## 📫 Contact
+
+- **Portfolio**: [prititaliya.github.io/portfolio/](https://prititaliya.github.io/portfolio/)
+- **LinkedIn**: [linkedin.com/in/prit-italiya-20b572199](https://www.linkedin.com/in/prit-italiya-20b572199)
+
+Feel free to connect with me!
