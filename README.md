@@ -20,17 +20,12 @@ OOP | API Integration | Algorithms | Git & GitHub | MySQL | Google BigQuery | PH
 ### **Web Development:**  
 HTML | CSS | Bootstrap | React | Redux | TailwindCSS | Express.js | Node.js | MongoDB | MySQL | Netlify | Heroku
 
-## 🔥 GitHub Stats:
-![Prit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prititaliya&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prititaliya&theme=onedark)
 
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
-## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prititaliya&layout=compact&theme=radical)
 
 ---
 🚀 Always open to collaboration on **exciting projects** and **new opportunities**!
