@@ -5,7 +5,6 @@ Hi there! I'm **Prit Italiya**, a passionate **Computer Science student** at the
 - 📫 Email: [prititaliya2244@gmail.com](mailto:prititaliya2244@gmail.com)
 - 🌍 Portfolio: [prititaliya.github.io/portfolio](https://prititaliya.github.io/portfolio/)
 - 🔗 LinkedIn: [linkedin.com/in/prititaliya](https://linkedin.com/in/prititaliya)
-- 🐦 Twitter: [@prititaliya](https://twitter.com/prititaliya)
 
 ## 💻 Tech Stack:
 ### **Languages:**  
