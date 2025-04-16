@@ -19,10 +19,6 @@ OOP | API Integration | Algorithms | Git & GitHub | MySQL | Google BigQuery | PH
 ### **Web Development:**  
 HTML | CSS | Bootstrap | React | Redux | TailwindCSS | Express.js | Node.js | MongoDB | MySQL | Netlify | Heroku
 
-
-## 🏆 GitHub Trophies:
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prititaliya&theme=onedark)
-
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
