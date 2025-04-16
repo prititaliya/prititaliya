@@ -16,9 +16,6 @@ Pandas | NumPy | Matplotlib | Seaborn | Google Data Studio | Tableau | Scikit-le
 ### **Software Development & Tools:**  
 OOP | API Integration | Algorithms | Git & GitHub | MySQL | Google BigQuery | PHPMyAdmin | Google Cloud (GCP) | AWS (Basic) | Zapier Automation
 
-### **Web Development:**  
-HTML | CSS | Bootstrap | React | Redux | TailwindCSS | Express.js | Node.js | MongoDB | MySQL | Netlify | Heroku
-
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
