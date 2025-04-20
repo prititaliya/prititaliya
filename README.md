@@ -1,7 +1,7 @@
 # 👨‍💻 Prit Italiya
 
 🎓 Honours Computer Science Student (Statistics Minor)  
-📍 Based in Winnipeg, MB | Originally from Surat, India  
+📍 Based in Winnipeg, MB
 📬 [prititaliya2244@gmail.com](mailto:prititaliya2244@gmail.com)  
 🌐 [Portfolio Website](https://prititaliya.github.io/portfolio/) | 🐙 [GitHub](https://github.com/prititaliya)
 
@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-I’m an Honours Computer Science student with a minor in Statistics at the **University of Manitoba**, building a strong foundation in both software development and data science. I began my academic journey with a **Diploma in Information Technology** from **Gujarat Technological University**, earning **27 transfer credits**, and have since grown into a developer passionate about data pipelines, machine learning, and full-stack development.
-
+I’m an Honours Computer Science student with a minor in Statistics at the **University of Manitoba**, building a strong foundation in both software development and data science. I began my academic journey with a **Diploma in Information Technology** from **Gujarat Technological University.**
 ---
 
 ## 💼 Experience
@@ -19,11 +18,6 @@ I’m an Honours Computer Science student with a minor in Statistics at the **Un
 - Built real-time BI dashboards and predictive models that improved decision-making accuracy by 25%.
 - Developed and optimized ETL pipelines using SQL, Python, and Google Cloud.
 - Version-controlled team workflows using GitHub.
-
-### **Cashier** — Esso (Jan 2023 – Present)
-- Maintained 100% accuracy in handling payments and provided excellent customer service.
-- Managed store ops and resolved customer issues to boost satisfaction.
-
 ---
 
 ## 🎓 Education
@@ -85,14 +79,6 @@ Pandas, NumPy, Matplotlib, Seaborn, Tableau, GCP, AWS (basic), Zapier, Google Da
 
 ---
 
-## 📊 Fun Facts
-
-- 📈 Built dashboards that cut reporting time in half  
-- 💬 Fluent in Python and sarcasm  
-- 👊 On a redemption arc from 45% in iteration 1 to 100% by the final one
-
----
-
 ## 📫 Let’s Connect
 
 - [GitHub](https://github.com/prititaliya)  
@@ -100,5 +86,3 @@ Pandas, NumPy, Matplotlib, Seaborn, Tableau, GCP, AWS (basic), Zapier, Google Da
 - [Email](mailto:prititaliya2244@gmail.com)
 
 ---
-
-*"From Surat to Systems Design – Let’s build smart, ship clean, and scale fast."*
