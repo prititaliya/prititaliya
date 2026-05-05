@@ -3,7 +3,7 @@
 # Prit Italiya
 AI/LLM & Data Engineer | Honours Computer Science Student
 Winnipeg, MB
-[prititaliya2244@gmail.com](mailto:prititaliya2244@gmail.com) | [Portfolio Website](https://prititaliya.github.io/portfolio/) | [GitHub](https://github.com/prititaliya)
+[italiypb@myumanitoba.ca](mailto:italiypb@myumanitoba.ca) | [Portfolio Website](https://prititaliya.github.io/portfolio/) | [GitHub](https://github.com/prititaliya)
 
 ## About Me
 I am an AI/LLM and Data Engineer and a Computer Science student at the University of Manitoba. My focus is on building production ready AI, multi-agent architectures, and robust data infrastructure. I prefer developing deep tool expertise and writing clean, scalable code.
